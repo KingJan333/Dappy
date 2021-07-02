@@ -19,7 +19,7 @@ header{
 }
 
 .nav{
-    display: flex;
+    display: inline-flex;
     align-items: center;
     list-style-type: none;
 }
@@ -37,7 +37,7 @@ header{
     display: flex;
     justify-content: space-around;
     list-style-type: none;
-    display: flex;
+    margin-left: 180px;
 }
 .social-icon>li{
     margin-right: 10px;
